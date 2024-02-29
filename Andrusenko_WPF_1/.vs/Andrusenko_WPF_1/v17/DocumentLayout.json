@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|d:\\projects\\visualstudio\\andrusenko_wpf_1\\andrusenko_wpf_1\\viewmodels\\dateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|solutionrelative:andrusenko_wpf_1\\viewmodels\\dateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|d:\\projects\\visualstudio\\andrusenko_wpf_1\\andrusenko_wpf_1\\views\\dateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|solutionrelative:andrusenko_wpf_1\\views\\dateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|d:\\projects\\visualstudio\\andrusenko_wpf_1\\andrusenko_wpf_1\\views\\dateview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|solutionrelative:andrusenko_wpf_1\\views\\dateview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|d:\\projects\\visualstudio\\andrusenko_wpf_1\\andrusenko_wpf_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|solutionrelative:andrusenko_wpf_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|d:\\projects\\visualstudio\\andrusenko_wpf_1\\andrusenko_wpf_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|solutionrelative:andrusenko_wpf_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|d:\\projects\\visualstudio\\andrusenko_wpf_1\\andrusenko_wpf_1\\tools\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D98DAC3-6829-4DE6-99BC-BC2612B6EAD3}|Andrusenko_WPF_1\\Andrusenko_WPF_1.csproj|solutionrelative:andrusenko_wpf_1\\tools\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 335,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateView.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\Views\\DateView.xaml.cs",
+              "RelativeDocumentMoniker": "Andrusenko_WPF_1\\Views\\DateView.xaml.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\Views\\DateView.xaml.cs",
+              "RelativeToolTip": "Andrusenko_WPF_1\\Views\\DateView.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:49:55.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\ViewModels\\DateViewModel.cs",
+              "RelativeDocumentMoniker": "Andrusenko_WPF_1\\ViewModels\\DateViewModel.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\ViewModels\\DateViewModel.cs",
+              "RelativeToolTip": "Andrusenko_WPF_1\\ViewModels\\DateViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:25:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateView.xaml",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\Views\\DateView.xaml",
+              "RelativeDocumentMoniker": "Andrusenko_WPF_1\\Views\\DateView.xaml",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\Views\\DateView.xaml",
+              "RelativeToolTip": "Andrusenko_WPF_1\\Views\\DateView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-23T05:49:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Andrusenko_WPF_1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Andrusenko_WPF_1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:39:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\Tools\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Andrusenko_WPF_1\\Tools\\RelayCommand.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\Tools\\RelayCommand.cs",
+              "RelativeToolTip": "Andrusenko_WPF_1\\Tools\\RelayCommand.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwD8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:40:23.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Andrusenko_WPF_1\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_WPF_1\\Andrusenko_WPF_1\\MainWindow.xaml",
+              "RelativeToolTip": "Andrusenko_WPF_1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T18:39:51.183Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
